@@ -650,6 +650,7 @@ header h1 img {
   border-bottom: 1px solid #000;
   transition: 0.4s;
   cursor: pointer;
+  overflow: hidden;
 }
 #history .historyList .plus {
   width: 30px;
